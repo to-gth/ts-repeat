@@ -1,4 +1,4 @@
-import DelayFor from "./DelayFor"
+import DelayFor from './DelayFor'
 
 class Repeat<K> {
 
